@@ -1,0 +1,6 @@
+from ibm_watson_machine_learning.foundation_models.utils.enums import ModelTypes
+
+def emotion_detector(text_to_analyze):
+    # Watson NLP emotion analysis implementation
+    # Replace this placeholder with the Watson NLP endpoint configuration used in the course environment.
+    return {"anger": 0.0, "disgust": 0.0, "fear": 0.0, "joy": 0.0, "sadness": 0.0, "dominant_emotion": None}
