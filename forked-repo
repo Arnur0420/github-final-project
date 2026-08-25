@@ -1,0 +1,10 @@
+$ curl -s https://api.github.com/repos/Arnur0420/github-final-project
+
+{
+  "name": "github-final-project",
+  "full_name": "Arnur0420/github-final-project",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
