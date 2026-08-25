@@ -1,5 +1,5 @@
 # Contributing
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+Все вклады, отчеты об ошибках, исправления ошибок, улучшения документации, улучшения и идеи приветствуются.
 
-Please open an issue or pull request with a clear description of your proposed change.
+Пожалуйста, создавайте issue или pull request с понятным описанием предлагаемого изменения.
