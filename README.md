@@ -1,16 +1,22 @@
-# github-final-project
+# Emotion Detection Application
 
-## Simple Interest Calculator
+Python and Flask application for emotion detection using IBM Watson NLP.
 
-A calculator that calculates simple interest given the principal amount, annual rate of interest, and time period in years.
+## Project files
 
-### Input
-- `p` — principal amount
-- `r` — annual rate of interest
-- `t` — time period in years
+- `emotion_detection.py` — Watson NLP emotion detector
+- `EmotionDetection/__init__.py` — package initializer
+- `test_emotion_detection.py` — unit tests
+- `server.py` — Flask web application
 
-### Output
-Simple Interest = `p * t * r / 100`
+## Run
 
-## Project
-This project demonstrates basic Git and GitHub workflows, including branches, commits, pull requests, and merges.
+```bash
+pip install flask requests
+python server.py
+```
+
+The application exposes `/emotionDetector` and returns JSON emotion scores.
+
+## Original exercise
+This repository is used for the IBM Watson NLP emotion detection application exercise.
